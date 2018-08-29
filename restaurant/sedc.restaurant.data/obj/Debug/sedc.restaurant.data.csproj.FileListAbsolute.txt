@@ -1,0 +1,6 @@
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\sedc.restaurant.data.dll
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\sedc.restaurant.data.pdb
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.csprojResolveAssemblyReference.cache
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.dll
+C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.pdb
