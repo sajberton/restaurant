@@ -1,0 +1,11 @@
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.csprojResolveAssemblyReference.cache
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.csproj.CoreCompileInputs.cache
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.business.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.business.pdb
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\EntityFramework.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.pdb
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.dll.config
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\EntityFramework.xml
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.pdb

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -8,16 +9,17 @@ namespace sedc.restaurant.data.Model
 {
    public class Menu
     {
+        [Key]
         public int Id { get; set; }
-        public Enum Type { get; set; }
+
+        [Required]
+        public byte TypeId { get; set; }
+
+        [Required]
+        [MaxLength(200)]
         public string RestaurantName { get; set; }
-        public List<Category> Categorys { get; set; }
+        public List<Category> ListCategories { get; set; }
     }
 
-    enum Type
-    {
-        Meals,
-        Drinks,
-        Wines
-    }
+   
 }

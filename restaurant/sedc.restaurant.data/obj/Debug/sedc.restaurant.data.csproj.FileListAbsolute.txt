@@ -4,3 +4,8 @@ C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\
 C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.csproj.CoreCompileInputs.cache
 C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.dll
 C:\Users\Code\source\repos\restaurant\restaurant\sedc.restaurant.data\obj\Debug\sedc.restaurant.data.pdb
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\sedc.restaurant.data.dll.config
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\EntityFramework.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\EntityFramework.xml
+C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.data\bin\Debug\EntityFramework.SqlServer.xml
