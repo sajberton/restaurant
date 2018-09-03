@@ -20,6 +20,7 @@ namespace sedc.restaurant.data.Model
 
         public Item Item { get; set; }
 
+        [Required]
         public short Quantity { get; set; }
      
     }

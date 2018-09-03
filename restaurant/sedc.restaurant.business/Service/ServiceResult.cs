@@ -12,8 +12,10 @@ namespace sedc.restaurant.business.Service
 
         public IList<T> ListItems { get; set; }
 
-        public bool Sucess { get; set; }
+        public bool Success { get; set; }
+
         public string ErrorMessage { get; set; }
+
         public Exception Exception { get; set; }
     }
 }

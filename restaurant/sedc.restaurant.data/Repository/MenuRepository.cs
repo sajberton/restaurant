@@ -16,8 +16,6 @@ namespace sedc.restaurant.data.Repository
             return item;
         }
 
-        
-
         public void Delete(Menu item)
         {
             var dbItem = DbContext.Menus.Single(m => m.Id == item.Id);

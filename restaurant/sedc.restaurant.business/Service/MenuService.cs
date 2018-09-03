@@ -23,14 +23,14 @@ namespace sedc.restaurant.business.Service
                 return new ServiceResult<DtoMenu>()
                 {
                     Item = new DtoMenu(result),
-                    Sucess = true
+                    Success = true
                 };
             }
             catch (Exception ex)
             {
                 return new ServiceResult<DtoMenu>()
                 {
-                    Sucess = false,
+                    Success = false,
                     Exception = ex,
                     ErrorMessage = ex.Message
                 };
@@ -47,14 +47,14 @@ namespace sedc.restaurant.business.Service
                 return new ServiceResult<DtoMenu>()
                 {
                     ListItems = resultList,
-                    Sucess = true
+                    Success = true
                 };
             }
             catch (Exception ex)
             {
                 return new ServiceResult<DtoMenu>()
                 {
-                    Sucess = false,
+                    Success = false,
                     Exception = ex,
                     ErrorMessage = ex.Message
                 };

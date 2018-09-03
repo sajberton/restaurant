@@ -15,11 +15,11 @@ namespace sedc.restaurant.data.Model
         [Required]
         [MaxLength(3)]
         public int Table { get; set; }
-  
-        public string Comment { get; set; }
 
         [Required]
         public byte StatusId { get; set; }
+
+        public string Comments { get; set; }    
 
         [Required]
         public DateTime WhenCreated { get; set; }

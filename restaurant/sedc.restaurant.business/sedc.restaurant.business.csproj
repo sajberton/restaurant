@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Model\DtoMenu.cs" />
+    <Compile Include="Model\MenuType.cs" />
+    <Compile Include="Model\OrderStatus.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\BaseService.cs" />
     <Compile Include="Service\IService.cs" />

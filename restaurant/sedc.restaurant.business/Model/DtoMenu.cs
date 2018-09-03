@@ -9,10 +9,6 @@ namespace sedc.restaurant.business.Model
 {
    public class DtoMenu
     {
-        public int Id { get; set; }
-        public Type TypeEnum { get; set; }
-        public string RestaurantName { get; internal set; }
-
         public DtoMenu()
         {
         }
@@ -21,15 +17,15 @@ namespace sedc.restaurant.business.Model
         {
             Id = menu.Id;
 
-            TypeEnum = (Type)menu.TypeId;
+            TypeEnum = (MenuType)menu.TypeId;
             RestaurantName = menu.RestaurantName;
         }
 
-        public enum Type
-        {
-            Meals,
-            Drinks,
-            Wines
-        }
+        public int Id { get; set; }
+
+        public MenuType TypeEnum { get; set; }
+
+        public string RestaurantName { get; set; }
+
     }
 }

@@ -9,3 +9,15 @@ C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\De
 C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\bin\Debug\EntityFramework.xml
 C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.dll
 C:\Users\Code\Source\Repos\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.pdb
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.business.dll
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.business.pdb
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.dll
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\EntityFramework.dll
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.pdb
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\sedc.restaurant.data.dll.config
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\bin\Debug\EntityFramework.xml
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.csproj.CopyComplete
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.dll
+C:\Users\Windows\Desktop\Seavus\Practical ASP.NET MVC\moe cas\restaurant\restaurant\sedc.restaurant.business\obj\Debug\sedc.restaurant.business.pdb

@@ -10,7 +10,7 @@ namespace sedc.restaurant.data
 {
    public class RestaurantContext : DbContext
     {
-       public RestaurantContext() : base("name = RestaurantConnection")
+       public RestaurantContext() : base ("name=RestaurantConnection")
         {
 
         }

@@ -16,12 +16,6 @@ namespace sedc.restaurant.data.Model
         [MaxLength(200)]
         public string Name { get; set; }
 
-        [Required]
-        public double Price { get; set; }
-
-        [Required]
-        public int Availability { get; set; }
-
         [MaxLength(1000)]
         public string Description { get; set; }
 
@@ -29,7 +23,14 @@ namespace sedc.restaurant.data.Model
         public string Contents { get; set; }
 
         [Required]
+        public double Price { get; set; }
+
+        [Required]
+        public bool Availability { get; set; }
+
+        [Required]
         public int CategoryId { get; set; }
+
         public Category Category { get; set; }
     }
 }

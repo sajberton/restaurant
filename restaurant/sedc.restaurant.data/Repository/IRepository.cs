@@ -17,7 +17,5 @@ namespace sedc.restaurant.data.Repository
         void Update(T item);
 
         void Delete(T item);
-    }
-
-   
+    }  
 }
